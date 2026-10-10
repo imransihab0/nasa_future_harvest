@@ -6,7 +6,7 @@ NASA Earth data turned into resilient crop rotations for Bangladeshi farmers.
 An AI agent that helps smallholder farmers in Bangladesh decide what to plant next.
 
 ## Team: DIU_Future_Harvest
-## Challenge: AgriSense
+## Challenge: [CHALLENGE NAME]
 ## GitHub: imransihab0
 
 ## What it does
