@@ -2,7 +2,7 @@ import os
 
 files_to_create = {
     "README.md": "# Future Harvest\n\nNASA Earth data turned into resilient crop rotations for Bangladeshi farmers.\n\n## Mission\nAn AI agent that helps smallholder farmers in Bangladesh decide what to plant next.\n\n## What it does\n1. Ask\n2. Locate\n3. Observe\n4. Rank\n\n## NASA Data Sources\n- NASA POWER\n- NASA SMAP\n- NASA GPM IMERG\n- NASA MODIS / VIIRS\n\n## Quick Start\n```bash\npip install -r backend/requirements.txt\n```\n",
-    "LICENSE": "MIT License\n\nCopyright (c) 2026 DIU_Legacy1831\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files...",
+    "LICENSE": "MIT License\n\nCopyright (c) 2026 DIU_Future_Harvest\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files...",
     ".gitignore": "venv/\n__pycache__/\n*.db\n.env\n.DS_Store\n",
     ".env.example": "EARTHDATA_USERNAME=\nEARTHDATA_PASSWORD=\nLLM_KEY=\nDB_PATH=sqlite:///future_harvest.db\n",
     "docs/mission.md": "# Mission\nHelping Bangladeshi farmers with AI and NASA data.\n",
